@@ -10,8 +10,8 @@ I lean heavily on AI coding assistants (Claude, Gemini) as a development method;
 The AI-assisted development approach is what made the scope of that learning possible outside a full-time job. It's raised the ceiling of what I'm exposed to — things I wouldn't have known to look for, let alone how to apply. I'd never have been exposed to half the technical territory they cover. 
 
 ### Featured Projects:
-- KitSniff - A daily ingredient guessing game.
-- F1 Predictions - A predictions league game for a friend group. 
+- [https://kitsniff.com] - A daily ingredient guessing game.
+- [https://f1.kitsniff.com] - A predictions league game for a friend group. 
 - Chess Storyteller - Transform a PGN file into descriptive narratives.
   
 ### Tech / Tools:
