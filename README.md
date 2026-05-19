@@ -1,4 +1,4 @@
-Engineer in the UK mixing technical project management with digital transformation and data science. The projects here are a personal experiment in AI-assisted development as a learning method: small Flask apps on a Raspberry Pi, built for friends and family, used as an excuse to learn things I wouldn't otherwise have any exposure to.
+Engineer in the UK mixing technical project management with digital transformation and data science. The projects here are a personal experiment in AI-assisted development as a learning method: small Flask apps on a Raspberry Pi, built for friends and family, used as an excuse to learn things I wouldn't otherwise have exposure to.
 
 ### What I build:
 - Self-hosted web apps and home infrastructure (Flask, Pi, Home Assistant)
