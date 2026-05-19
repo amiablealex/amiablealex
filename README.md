@@ -1,24 +1,23 @@
-Engineer in the UK mixing technical project management with digital transformation and data science. The projects here are a personal experiment in AI-assisted development as a learning method: small Flask apps on a Raspberry Pi, built for friends and family, used as an excuse to learn things I wouldn't otherwise have exposure to.
+Engineer in the UK mixing technical project management with digital transformation and data science. 
 
-### What I build:
-- Self-hosted web apps and home infrastructure (Flask, Pi, Home Assistant)
-- Production-leaning hobby projects as a way to learn the operational side of software
+#### What I build:
+The projects here are a personal experiment in AI-assisted development as a learning method: small Flask apps on a Raspberry Pi, built for friends and family, used as an excuse to learn things I wouldn't otherwise have exposure to.
   
-### How I Work:
-I lean heavily on AI coding assistants (Claude, Gemini) as a development method; the engineering judgement, the look and feel, and the quality bar are mine.
+#### How I Work:
+I lean heavily on AI coding assistants (Claude, Gemini) as a development method. The engineering judgement, the look and feel, and the quality bar are mine.
 
 The AI-assisted development approach is what made the scope of that learning possible outside a full-time job. It's raised the ceiling of what I'm exposed to — things I wouldn't have known to look for, let alone how to apply. I'd never have been exposed to half the technical territory they cover. 
 
-### Featured Projects:
+#### Featured Projects:
 - [KitSniff](https://kitsniff.com) - A daily ingredient guessing game.
 - [F1 Predictions](https://f1.kitsniff.com) - A predictions league game for a friend group. 
 - Chess Storyteller - Transform a PGN file into descriptive narratives.
   
-### Tech / Tools:
-- Stack: Mostly Python (Flask) with Postgres, DAX/M for the BI work, YAML for the home infra side.
-- Infrastructure: Raspberry Pi for local dev and always-on lightweight stuff, Railway for production ephemeral environments and managed Postgres, Hetzner Cloud for VPS workloads that need to be more serious, Cloudflare for tunnels and DNS. Resend for transactional email. 
+#### Tech / Tools:
+- Stack: Mostly Python (Flask) with Postgres, DAX/M for BI work, YAML for the home infra side.
+- Infrastructure: Raspberry Pi for local dev and always-on lightweight stuff, Railway for production ephemeral environments and managed Postgres, Hetzner Cloud for VPS workloads that need to be more serious.
 
-### Contact
+#### Contact
 - [LinkedIn](https://www.linkedin.com/in/alexbritten/)
   
 <!--
