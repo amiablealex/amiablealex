@@ -5,7 +5,7 @@ Engineer in the UK mixing technical project management with digital transformati
 - Production-leaning hobby projects as a way to learn the operational side of software
   
 ### How I Work:
-I lean heavily on AI coding assistants (Claude, Gemini) as a development method; the engineering judgement and quality bar are mine.
+I lean heavily on AI coding assistants (Claude, Gemini) as a development method; the engineering judgement, the look and feel, and the quality bar are mine.
 
 The AI-assisted development approach is what made the scope of that learning possible outside a full-time job. It's raised the ceiling of what I'm exposed to — things I wouldn't have known to look for, let alone how to apply. I'd never have been exposed to half the technical territory they cover. 
 
