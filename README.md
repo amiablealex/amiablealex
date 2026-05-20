@@ -1,9 +1,9 @@
-Engineer in the UK mixing technical project management with digital transformation and data science. The projects here are a personal experiment in AI-assisted development as a learning method: small Flask apps on a Raspberry Pi, built for friends and family, used as an excuse to learn things I wouldn't otherwise have exposure to.
+Engineer in the UK. The projects here are a personal experiment in AI-assisted development as a learning method: small Flask apps on a Raspberry Pi, built for friends and family, used as an excuse to learn things I wouldn't otherwise have exposure to.
   
 #### How I Work:
-I lean heavily on AI coding assistants (Claude, Gemini) as a development method. The engineering judgement — ideas, system design, deciding what's worth implementing, understanding what the code is actually doing, and the quality bar - is my own.
+I lean heavily on AI coding assistants (Claude, Gemini) as a development method. The engineering judgement - ideas, system design, deciding what's worth implementing, understanding what the code is actually doing) and the quality bar - is my own.
 
-The AI-assisted development approach is what made the scope of that learning possible outside a full-time job. It's raised the ceiling of what I'm exposed to — things I wouldn't have known to look for, let alone how to apply. I'd never have been exposed to half the technical territory they cover. 
+The AI-assisted development approach is what made the scope of that learning possible outside a full-time job. It's raised the ceiling of what I'm exposed to. Things I wouldn't have known to look for, let alone how to apply. Without it I'd never have been exposed to any of the technical territory covered here. 
 
 #### Featured Projects:
 - [KitSniff](https://kitsniff.com) - A daily ingredient guessing game.
