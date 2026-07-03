@@ -6,8 +6,9 @@ The AI-assisted development approach is what made the scope of that learning pos
 
 #### Featured Projects:
 - [KitSniff](https://kitsniff.com) - A daily ingredient guessing game.
-- [F1 Predictions](https://f1.kitsniff.com) - A predictions league game for a friend group. 
+- [F1 Predictions](https://f1.kitsniff.com) - A predictions league game for a friend group.
 - Chess Storyteller - Transform a PGN file into descriptive narratives.
+- [my-kitchen.io](https://my-kitchen.io) - Self-hosted, LLM-powered household recipe brain (Home Assistant add-on). 
   
 #### Tech / Tools:
 Stack: Python (Flask) with Postgres, DAX/M, YAML.
